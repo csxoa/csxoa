@@ -9,4 +9,4 @@
 <a href="https://www.notion.so/ad262c9d70b94c2aa1f0d1d636f436e7?v=23530a3b2ead406c9379b2b683f37fd2"> <img src="https://img.shields.io/badge/TIL-000000?style=for-the-badge&logo=Notion&logoColor=white"> -->
 <!-- <a href="mailto:csooa9305@gmail.com"> <img src="https://img.shields.io/badge/Gmail-C63319?style=for-the-badge&logo=Gmail&logoColor=white"> </p> -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sue517)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csxoa)](https://github.com/anuraghazra/github-readme-stats)
